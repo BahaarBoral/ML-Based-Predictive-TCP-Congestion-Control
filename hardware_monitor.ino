@@ -2,9 +2,9 @@
   ML-Based Predictive TCP Congestion Control
   Hardware Module: hardware_monitor.ino
   
-  Team Members:
-    - BAHAAR (Reg. No: 24BCE1760)
-    - PARDHU (Reg. No: 24BCE1754)
+  Team Members (Group Project):
+    - Bahaar Boral (Reg. No: 24BCE1760)
+    - Pardhu Venkatta (Reg. No: 24BCE1754)
     
   Target Hardware: ESP32 or Arduino Uno/Nano
   Peripherals:

@@ -2,9 +2,9 @@
 ML-Based Predictive TCP Congestion Control
 Script: ml_tcp_simulation.py (Full Implementation: Proactive ML-TCP Engine)
 
-Team Members:
-  - BAHAAR (Reg. No: 24BCE1760)
-  - PARDHU (Reg. No: 24BCE1754)
+Team Members (Group Project):
+  - Bahaar Boral (Reg. No: 24BCE1760)
+  - Pardhu Venkatta (Reg. No: 24BCE1754)
 
 Description:
   Full implementation of proactive ML-guided TCP congestion control.

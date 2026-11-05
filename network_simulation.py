@@ -2,9 +2,9 @@
 ML-Based Predictive TCP Congestion Control
 Script: network_simulation.py (Baseline AIMD Network Simulator - Half Implementation)
 
-Team Members:
-  - BAHAAR (Reg. No: 24BCE1760)
-  - PARDHU (Reg. No: 24BCE1754)
+Team Members (Group Project):
+  - Bahaar Boral (Reg. No: 24BCE1760)
+  - Pardhu Venkatta (Reg. No: 24BCE1754)
 
 Description:
   Simulates traditional reactive TCP congestion control using AIMD

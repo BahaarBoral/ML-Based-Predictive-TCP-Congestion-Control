@@ -2,9 +2,9 @@
 ML-Based Predictive TCP Congestion Control
 Script: hardware_serial_bridge.py (PC-to-Microcontroller Hardware Bridge)
 
-Team Members:
-  - BAHAAR (Reg. No: 24BCE1760)
-  - PARDHU (Reg. No: 24BCE1754)
+Team Members (Group Project):
+  - Bahaar Boral (Reg. No: 24BCE1760)
+  - Pardhu Venkatta (Reg. No: 24BCE1754)
 
 Description:
   Streams real-time simulation telemetry to an external Arduino / ESP32

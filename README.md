@@ -1,10 +1,11 @@
 # ML-Based Predictive TCP Congestion Control
 ### Enhancing Network Reliability through Machine Learning-Driven Proactive Congestion Management
 
-**Course:** Computer Networks  
-**Team Members:**  
-- **BAHAAR** (Reg. No: 24BCE1760)  
-- **PARDHU** (Reg. No: 24BCE1754)  
+> **Group Project**  
+> **Course:** Computer Networks  
+> **Collaborators:**  
+> - **Bahaar Boral** (Reg. No: 24BCE1760)  
+> - **Pardhu Venkatta** (Reg. No: 24BCE1754)  
 
 ---
 

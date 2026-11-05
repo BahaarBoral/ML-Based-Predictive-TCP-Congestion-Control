@@ -2,9 +2,9 @@
 ML-Based Predictive TCP Congestion Control
 Script: compare_results.py (Comprehensive Benchmark & Comparison Suite)
 
-Team Members:
-  - BAHAAR (Reg. No: 24BCE1760)
-  - PARDHU (Reg. No: 24BCE1754)
+Team Members (Group Project):
+  - Bahaar Boral (Reg. No: 24BCE1760)
+  - Pardhu Venkatta (Reg. No: 24BCE1754)
 
 Description:
   Generates comparative analysis between Traditional Reactive AIMD TCP

@@ -2,9 +2,9 @@
 ML-Based Predictive TCP Congestion Control
 Script: train_model.py (Machine Learning Training & Multi-Model Evaluation)
 
-Team Members:
-  - BAHAAR (Reg. No: 24BCE1760)
-  - PARDHU (Reg. No: 24BCE1754)
+Team Members (Group Project):
+  - Bahaar Boral (Reg. No: 24BCE1760)
+  - Pardhu Venkatta (Reg. No: 24BCE1754)
 
 Description:
   Trains the Random Forest classifier on telemetry data (network_data.csv)

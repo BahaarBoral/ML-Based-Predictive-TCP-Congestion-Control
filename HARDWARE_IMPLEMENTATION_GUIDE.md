@@ -1,9 +1,10 @@
 # Hardware Implementation Guide: ML-Based Predictive TCP Congestion Control
 
 **Project Title:** ML-Based Predictive TCP Congestion Control: Enhancing Network Reliability through Machine Learning-Driven Proactive Congestion Management  
+**Project Type:** Group Project  
 **Team Members:**  
-- **BAHAAR** (Reg. No: 24BCE1760)  
-- **PARDHU** (Reg. No: 24BCE1754)  
+- **Bahaar Boral** (Reg. No: 24BCE1760)  
+- **Pardhu Venkatta** (Reg. No: 24BCE1754)  
 
 ---
 

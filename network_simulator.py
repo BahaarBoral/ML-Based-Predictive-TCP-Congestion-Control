@@ -2,9 +2,9 @@
 ML-Based Predictive TCP Congestion Control
 Script: network_simulator.py (Alias for network_simulation.py)
 
-Team Members:
-  - BAHAAR (Reg. No: 24BCE1760)
-  - PARDHU (Reg. No: 24BCE1754)
+Team Members (Group Project):
+  - Bahaar Boral (Reg. No: 24BCE1760)
+  - Pardhu Venkatta (Reg. No: 24BCE1754)
 """
 
 from network_simulation import run_baseline_simulation
